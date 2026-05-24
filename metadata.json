@@ -1,0 +1,6 @@
+{
+  "name": "Muslimani Ideal",
+  "description": "A beautifully polished daily Islamic assistant with prayer reminders, countdown tracker, daily quranic reminders, Qibla compass, and interactive Tasbeeh counter, customized for Skopje and global presets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
